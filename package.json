@@ -1,0 +1,13 @@
+{
+  "name": "aula-logica-ts",
+  "version": "1.0.0",
+  "description": "Material de aula: lógica de programação com TypeScript (prompt/alert no navegador)",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
